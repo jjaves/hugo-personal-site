@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/info/about-javier/</loc>
+    <loc>https://jjaves.github.io/hugo-personal-site/info/about-javier/</loc>
     <lastmod>2024-09-16T20:31:12-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/info/</loc>
+    <loc>https://jjaves.github.io/hugo-personal-site/info/</loc>
     <lastmod>2024-09-16T20:31:12-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/a-little-about-me/</loc>
+    <loc>https://jjaves.github.io/hugo-personal-site/posts/a-little-about-me/</loc>
     <lastmod>2024-09-16T20:17:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://jjaves.github.io/hugo-personal-site/posts/</loc>
     <lastmod>2024-09-16T20:17:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jjaves.github.io/hugo-personal-site/</loc>
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jjaves.github.io/hugo-personal-site/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jjaves.github.io/hugo-personal-site/tags/</loc>
   </url>
 </urlset>
