@@ -1,0 +1,62 @@
+[[entries]]
+title = "info"
+
+  [[entries.entries]]
+  title = "I am Javier, a data expert with a passion for technology and data-driven decision-making."
+
+  [[entries.entries]]
+  title = "<span style='display: inline-flex; align-items: center; margin-left: 0px;'> <img src='/images/linkedIn_icon.svg' alt='LinkedIn Icon' style='width: 20px; height: 20px; margin-right: 5px;'>  LinkedIn profile </span>"
+  url = "https://www.linkedin.com/in/javiers2/"
+
+  [[entries.entries]]
+  title = "Working with data to solve business problems and optimize performance."
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See all posts..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "posts by category"
+
+  [entries.post_list]
+  section = "posts"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "projects"
+
+    [[entries.entries]]
+    title = "Micro Food Scarcity in the Bay Area"
+    url = "micro-food-scarcity"
+
+    [[entries.entries]]
+    title = "Project Number Two"
+    url = "project-two"
+
+
+[[entries]]
+title = "my career"
+
+  [[entries.entries]]
+  title = "Data expertise in ecommerce, finance, and operations."
+
+    [[entries.entries.entries]]
+    title = "Lead data projects at Good Eggs"
+    url = "career-good-eggs"
+
+    [[entries.entries.entries]]
+    title = "Head of Data, driving company-wide data transformations."
+    url = "about"
+
+[[entries]]
+title = "Resources"
+entries = [
+   { title = "add/edit this menu, edit data/resources.toml file" }
+  ]
