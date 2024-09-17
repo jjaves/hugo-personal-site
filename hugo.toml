@@ -1,4 +1,4 @@
-baseURL = 'https://jjaves.github.io/hugo-personal-site/'
+baseURL = 'https://javiersalazar.info/'
 languageCode = 'en-us'
 title = 'Javier Salazar'
 theme = 'nostyleplease'
