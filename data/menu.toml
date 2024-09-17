@@ -1,16 +1,25 @@
 [[entries]]
-title = "info"
+title = "links"
 
   [[entries.entries]]
-  title = "I am Javier, a data expert with a passion for technology and data-driven decision-making."
+  title = "jjsalazar@gmail.com"
+  url = "mailto:jjsalazar@gmail.com"
+  image = "images/gmail_icon.svg"
 
   [[entries.entries]]
-  title = "LinkedIn profile"
+  title = "linkedin"
   url = "https://www.linkedin.com/in/javiers2/"
   image = "images/linkedIn_icon.svg"
 
   [[entries.entries]]
-  title = "Working with data to solve business problems and optimize performance."
+  title = "github"
+  url = "https://github.com/jjaves"
+  image = "images/github_icon.svg"
+
+  [[entries.entries]]
+  title = "tableau public"
+  url = "https://public.tableau.com/app/profile/javier6881/vizzes"
+  image = "images/tableau_icon.svg"
 
 [[entries]]
 title = "all posts"
