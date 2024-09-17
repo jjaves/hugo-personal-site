@@ -1,4 +1,25 @@
 node_modules/
-public/*
 .cache/
 dist/
+
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE or editor folders
+.idea/
+.vscode/

@@ -1,11 +1,23 @@
-.social-logo {
-  /* width: 20px;
-  height: 20px;
-  vertical-align: middle;
-  margin-right: 20px; */
+/* Align the image and title horizontally and center them vertically */
+.menu-item-content {
+  display: inline-flex;
+  align-items: center;
 }
 
-/* .social-link {
-  display: flex;
-  align-items: center;
-} */
+/* Style the icon */
+.menu-item-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px; /* Adjust spacing between icon and title */
+}
+
+/* Optional: Style the link */
+.menu-item-link {
+  text-decoration: none; /* Remove underline from link */
+  color: inherit; /* Inherit text color */
+}
+
+/* Optional: Style the title */
+.menu-item-title {
+  /* Add any additional styling for the title here */
+}

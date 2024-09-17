@@ -5,8 +5,9 @@ title = "info"
   title = "I am Javier, a data expert with a passion for technology and data-driven decision-making."
 
   [[entries.entries]]
-  title = "<span style='display: inline-flex; align-items: center; margin-left: 0px;'> <img src='/images/linkedIn_icon.svg' alt='LinkedIn Icon' style='width: 20px; height: 20px; margin-right: 5px;'>  LinkedIn profile </span>"
+  title = "LinkedIn profile"
   url = "https://www.linkedin.com/in/javiers2/"
+  image = "images/linkedIn_icon.svg"
 
   [[entries.entries]]
   title = "Working with data to solve business problems and optimize performance."
