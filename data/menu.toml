@@ -21,23 +21,23 @@ title = "links"
   url = "https://public.tableau.com/app/profile/javier6881/vizzes"
   image = "images/tableau_icon.svg"
 
-[[entries]]
-title = "all posts"
+# [[entries]]
+# title = "all posts"
+# 
+#  [entries.post_list]
+#  limit = 5
+#  show_more = true
+#  show_more_text = "See all posts..."
+# show_more_url = "posts"
 
-  [entries.post_list]
-  limit = 5
-  show_more = true
-  show_more_text = "See all posts..."
-  show_more_url = "posts"
-
-[[entries]]
-title = "posts by category"
-
-  [entries.post_list]
-  section = "posts"
-  show_more = true
-  show_more_text = "See more posts..."
-  show_more_url = "posts"
+# [[entries]]
+# title = "posts by category"
+# 
+#   [entries.post_list]
+#   section = "posts"
+#  show_more = true
+#  show_more_text = "See more posts..."
+#  show_more_url = "posts"
 
 [[entries]]
 title = "projects"
@@ -47,26 +47,72 @@ title = "projects"
     url = "micro-food-scarcity"
 
     [[entries.entries]]
-    title = "Project Number Two"
-    url = "project-two"
+    title = "Snowflake Cost Savings 101"
+    url = "snowflake-cost-savings"
+
+    [[entries.entries]]
+    title = "Optimzed Segment Implementation"
+    url = "optimize-segment"
 
 
 [[entries]]
 title = "my career"
 
   [[entries.entries]]
-  title = "Data expertise in ecommerce, finance, and operations."
+  title = "Good Eggs"
 
     [[entries.entries.entries]]
-    title = "Lead data projects at Good Eggs"
-    url = "career-good-eggs"
+    title = "<b>Head of Data @ Good Eggs</b>, driving company-wide data transformations."
+#    url = "head-data-ge"
 
     [[entries.entries.entries]]
-    title = "Head of Data, driving company-wide data transformations."
-    url = "about"
+    title = "<b>Senior Data Analyst @ Good Eggs</b>, rebuilding the data pipeline and processes."
+#    url = "senior-data-ge"
+
+  [[entries.entries]]
+  title = "BackerKit"
+
+    [[entries.entries.entries]]
+    title = "<b>Analytics Manager @ BackerKit</b>, archecting data systems for a startup."
+#    url = "data-manager-bk"
+
+  [[entries.entries]]
+  title = "Timbuk2"
+
+    [[entries.entries.entries]]
+    title = "<b>Business Intelligence & IT Manager @ Timbuk2</b>, leading the technology team for small brand."
+#    url = "system-manager-t2"
+
+    [[entries.entries.entries]]
+    title = "<b>Senior Business Analyst @ Timbuk2</b>, modernizing systems and rethinking process."
+#    url = "senior-business-analyst-t2"
+
+    [[entries.entries.entries]]
+    title = "<b>Business Analyst @ Timbuk2</b>, providing high value via data."
+#    url = "business-analyst-t2"
 
 [[entries]]
-title = "Resources"
-entries = [
-   { title = "add/edit this menu, edit data/resources.toml file" }
-  ]
+title = "Useful Resources"
+  [[entries.entries]]
+    title = "dbt"
+    url = "dbt-links"
+
+  [[entries.entries]]
+    title = "snowflake"
+    url = "snowflake-links"
+
+  [[entries.entries]]
+    title = "dagster"
+    url = "dagster-links"
+  
+  [[entries.entries]]
+    title = "segment"
+    url = "segment-links"
+
+  [[entries.entries]]
+    title = "other"
+    url = "other-links"
+
+#entries = [
+#   { title = "add/edit this menu, edit data/resources.toml file" }
+#  ]
