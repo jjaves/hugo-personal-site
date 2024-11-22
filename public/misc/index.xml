@@ -1,32 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Miscs on Javier Salazar</title>
-    <link>https://javiersalazar.info:1313/misc/</link>
-    <description>Recent content in Miscs on Javier Salazar</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://javiersalazar.info:1313/misc/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://javiersalazar.info:1313/misc/dbt-links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://javiersalazar.info:1313/misc/dbt-links/</guid>
-      <description>&lt;h1 id=&#34;-dbt-links&#34;&gt;🛠️📦 dbt Links&lt;/h1&gt;&#xA;&lt;h2 id=&#34;dbt-additional-resources&#34;&gt;dbt Additional Resources&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.getdbt.com/best-practices/how-we-mesh/mesh-5-faqs&#34;&gt;dbt Mesh FAQs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/Hiflylabs/awesome-dbt#integrations&#34;&gt;Awesome dbt, a curated list of dbt resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.soda.io/soda/integrate-dbt.html&#34;&gt;SODA, tool to find, analyze, and solve data issues&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.getdbt.com/guides/serverless-datadog?step=1&#34;&gt;Integrating dbt w/ Datadog&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;learn-dbt&#34;&gt;learn dbt&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://learn.getdbt.com/catalog&#34;&gt;learn.dbt&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[fundamentals]https://learn.getdbt.com/courses/dbt-fundamentals&lt;/li&gt;&#xA;&lt;li&gt;[dbt &amp;amp; snowflake]https://courses.getdbt.com/courses/dbt-cloud-and-snowflake-for-developers&lt;/li&gt;&#xA;&lt;li&gt;[refactoring SQL]https://courses.getdbt.com/courses/refactoring-sql-for-modularity&lt;/li&gt;&#xA;&lt;li&gt;[advanced deployment w/ dbt Cloud]https://courses.getdbt.com/courses/advanced-deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;dbt-code-completion&#34;&gt;dbt code completion&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://discourse.getdbt.com/t/how-we-set-up-our-computers-for-working-on-dbt-projects/243&#34;&gt;post on setup&lt;/a&gt;&#xA;&lt;h3 id=&#34;helper-links&#34;&gt;helper links&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/ohmyzsh/ohmyzsh&#34;&gt;ohmyzsh&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/dbt-labs/dbt-completion.bash&#34;&gt;dbt-completion.bash&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gitlab.com/gitlab-data/analytics/blob/master/admin/onboarding_script.zsh&#34;&gt;useful onboarding script&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;cheat-sheet&#34;&gt;cheat sheet&lt;/h1&gt;&#xA;&lt;h2 id=&#34;git-workflow-for-dbt&#34;&gt;git workflow for dbt&lt;/h2&gt;&#xA;&lt;h4 id=&#34;go-to-dbt-project&#34;&gt;Go to dbt project&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cd ~/projects/&lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;dbt project name&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;start-the-pipenv-shell&#34;&gt;Start the pipenv shell&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;pipenv shell&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;update-master&#34;&gt;Update master&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git fetch&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git pull&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;checkout-branch&#34;&gt;Checkout branch&lt;/h4&gt;&#xA;&lt;h4 id=&#34;new-branch&#34;&gt;New branch:&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git checkout -b &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;new_branch name&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;from-pr&#34;&gt;From PR:&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git pull origin pull/&lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;PR Number&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;/head&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;update-models-locally&#34;&gt;Update models locally&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;dbt run --models staging_&lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;name of model&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;add--to-run-all-referenced-by-andor-depends-on-models&#34;&gt;Add &lt;code&gt;+&lt;/code&gt; to run all referenced by and/or depends on models&lt;/h4&gt;&#xA;&lt;p&gt;&lt;code&gt;+model_c&lt;/code&gt; for all upstream models, also runs &lt;code&gt;model_a&lt;/code&gt; and &lt;code&gt;model_b&lt;/code&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://javiersalazar.info:1313/misc/other-links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://javiersalazar.info:1313/misc/other-links/</guid>
-      <description>&lt;h1 id=&#34;other-links&#34;&gt;Other Links&lt;/h1&gt;&#xA;&lt;h2 id=&#34;learn-bashterminal&#34;&gt;Learn Bash/Terminal&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.mprat.org/Terminus/&#34;&gt;Terminus Interactive Bash game&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://overthewire.org/wargames/bandit/&#34;&gt;OverTheWire&amp;rsquo;s Bash Bandit Bash Game&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://overthewire.org/wargames/&#34;&gt;Additional games from OverTheWire&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;learn-git&#34;&gt;Learn Git&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://learngitbranching.js.org/&#34;&gt;Interactive game to learn git&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;data-viz&#34;&gt;Data Viz&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://handsondataviz.org/&#34;&gt;Online Book: Fundamentals of Data Viz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.visualcinnamon.com/resources/learning-data-visualization/books/&#34;&gt;Collection of Books on Data Viz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://javiersalazar.info:1313/misc/sql-links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://javiersalazar.info:1313/misc/sql-links/</guid>
-      <description>&lt;h1 id=&#34;-database-design--sql-links&#34;&gt;🗄️🔍 database design &amp;amp; SQL links&lt;/h1&gt;&#xA;&lt;h2 id=&#34;sql-online-learning-resources&#34;&gt;SQL Online Learning Resources&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/learn/intro-to-sql&#34;&gt;Kaggle&amp;rsquo;s Intro to SQL&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/learn/advanced-sql&#34;&gt;Kaggle&amp;rsquo;s Advanced SQL&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://learn.snowflake.com/en/courses/uni-essdww101/&#34;&gt;Snowflake&amp;rsquo;s Data Warehousing Workshop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mode.com/sql-tutorial/&#34;&gt;Mode&amp;rsquo;s SQL Tutorial&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;snowflake-links&#34;&gt;Snowflake Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://quickstarts.snowflake.com/guide/resource_optimization_performance_optimization/index.html?index=..%2F..index#0&#34;&gt;Resource Optimization: Performance&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://quickstarts.snowflake.com/guide/resource_optimization_usage_monitoring/index.html?index=..%2F..index#0&#34;&gt;Resource Optimization: Usage Monitoring&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://quickstarts.snowflake.com/guide/resource_optimization_billing_metrics/index.html?index=..%2F..index#0&#34;&gt;Resource Optimization: Billing Metrics&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://stackoverflow.com/questions/70585936/how-to-get-a-list-of-tables-used-for-each-query-in-the-query-history-in-snowflak/70589299#70589299&#34;&gt;Clever way to join &lt;code&gt;information_schema&lt;/code&gt; tables to &lt;code&gt;query_history&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://medium.com/snowflake/mythbusting-snowflake-pricing-all-the-cool-stuff-you-get-with-1-credit-f3daad217a98&#34;&gt;Good article explaining Snowflake credit usage&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.snowflake.com/en/developer-guide/odbc/odbc-parameters&#34;&gt;ODBC Configuration and Connection Parameters&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;snowflake-cost-management-links&#34;&gt;Snowflake Cost Management Links&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.snowflake.com/en/user-guide/views-materialized#label-materialized-views-maintenance-billing&#34;&gt;Track Materialized Views&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.snowflake.com/en/user-guide/warehouses-overview#auto-suspension-and-auto-resumption&#34;&gt;Lower Auto-Suspend&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://community.snowflake.com/s/article/Caching-in-Snowflake-Data-Warehouse&#34;&gt;How Snowflake cache works&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.snowflake.com/en/user-guide/warehouses-overview#auto-suspension-and-auto-resumption&#34;&gt;Understand auto-suspension&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/seanrm42/snowflake_scripts/tree/main/5_monitoring&#34;&gt;sample github snowflake monitoring queries&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.getdbt.com/reference/resource-configs/snowflake-configs#query-tags&#34;&gt;Apply tags from dbt&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;snowflake-cheat-sheet&#34;&gt;Snowflake Cheat Sheet&lt;/h1&gt;&#xA;&lt;h3 id=&#34;functions&#34;&gt;Functions&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.snowflake.com/en/sql-reference/functions/nvl2.html&#34;&gt;NVL2&lt;/a&gt; - Return values depending if first value is null.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Miscs on Javier Salazar</title><link>https://javiersalazar.info/misc/</link><description>Recent content in Miscs on Javier Salazar</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://javiersalazar.info/misc/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://javiersalazar.info/misc/dbt-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javiersalazar.info/misc/dbt-links/</guid><description>&lt;h1 id="-dbt-links">🛠️📦 dbt Links&lt;/h1>
+&lt;h2 id="dbt-additional-resources">dbt Additional Resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.getdbt.com/best-practices/how-we-mesh/mesh-5-faqs">dbt Mesh FAQs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Hiflylabs/awesome-dbt#integrations">Awesome dbt, a curated list of dbt resources&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.soda.io/soda/integrate-dbt.html">SODA, tool to find, analyze, and solve data issues&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.getdbt.com/guides/serverless-datadog?step=1">Integrating dbt w/ Datadog&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn-dbt">learn dbt&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://learn.getdbt.com/catalog">learn.dbt&lt;/a>
+&lt;ul>
+&lt;li>[fundamentals]https://learn.getdbt.com/courses/dbt-fundamentals&lt;/li>
+&lt;li>[dbt &amp;amp; snowflake]https://courses.getdbt.com/courses/dbt-cloud-and-snowflake-for-developers&lt;/li>
+&lt;li>[refactoring SQL]https://courses.getdbt.com/courses/refactoring-sql-for-modularity&lt;/li>
+&lt;li>[advanced deployment w/ dbt Cloud]https://courses.getdbt.com/courses/advanced-deployment&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="dbt-code-completion">dbt code completion&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://discourse.getdbt.com/t/how-we-set-up-our-computers-for-working-on-dbt-projects/243">post on setup&lt;/a>
+&lt;h3 id="helper-links">helper links&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ohmyzsh/ohmyzsh">ohmyzsh&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dbt-labs/dbt-completion.bash">dbt-completion.bash&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gitlab.com/gitlab-data/analytics/blob/master/admin/onboarding_script.zsh">useful onboarding script&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="cheat-sheet">cheat sheet&lt;/h1>
+&lt;h2 id="git-workflow-for-dbt">git workflow for dbt&lt;/h2>
+&lt;h4 id="go-to-dbt-project">Go to dbt project&lt;/h4>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>cd ~/projects/&lt;span style="color:#f92672">{&lt;/span>dbt project name&lt;span style="color:#f92672">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="start-the-pipenv-shell">Start the pipenv shell&lt;/h4>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>pipenv shell
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="update-master">Update master&lt;/h4>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git fetch
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git pull
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="checkout-branch">Checkout branch&lt;/h4>
+&lt;h4 id="new-branch">New branch:&lt;/h4>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git checkout -b &lt;span style="color:#f92672">{&lt;/span>new_branch name&lt;span style="color:#f92672">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="from-pr">From PR:&lt;/h4>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git pull origin pull/&lt;span style="color:#f92672">{&lt;/span>PR Number&lt;span style="color:#f92672">}&lt;/span>/head
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="update-models-locally">Update models locally&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>dbt run --models staging_&lt;span style="color:#f92672">{&lt;/span>name of model&lt;span style="color:#f92672">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="add--to-run-all-referenced-by-andor-depends-on-models">Add &lt;code>+&lt;/code> to run all referenced by and/or depends on models&lt;/h4>
+&lt;p>&lt;code>+model_c&lt;/code> for all upstream models, also runs &lt;code>model_a&lt;/code> and &lt;code>model_b&lt;/code>&lt;/p></description></item><item><title/><link>https://javiersalazar.info/misc/other-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javiersalazar.info/misc/other-links/</guid><description>&lt;h1 id="other-links">Other Links&lt;/h1>
+&lt;h2 id="learn-bashterminal">Learn Bash/Terminal&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.mprat.org/Terminus/">Terminus Interactive Bash game&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://overthewire.org/wargames/bandit/">OverTheWire&amp;rsquo;s Bash Bandit Bash Game&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://overthewire.org/wargames/">Additional games from OverTheWire&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn-git">Learn Git&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://learngitbranching.js.org/">Interactive game to learn git&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="data-viz">Data Viz&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://handsondataviz.org/">Online Book: Fundamentals of Data Viz&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.visualcinnamon.com/resources/learning-data-visualization/books/">Collection of Books on Data Viz&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://javiersalazar.info/misc/sql-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javiersalazar.info/misc/sql-links/</guid><description>&lt;h1 id="-database-design--sql-links">🗄️🔍 database design &amp;amp; SQL links&lt;/h1>
+&lt;h2 id="sql-online-learning-resources">SQL Online Learning Resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.kaggle.com/learn/intro-to-sql">Kaggle&amp;rsquo;s Intro to SQL&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/learn/advanced-sql">Kaggle&amp;rsquo;s Advanced SQL&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learn.snowflake.com/en/courses/uni-essdww101/">Snowflake&amp;rsquo;s Data Warehousing Workshop&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mode.com/sql-tutorial/">Mode&amp;rsquo;s SQL Tutorial&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="snowflake-links">Snowflake Links&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://quickstarts.snowflake.com/guide/resource_optimization_performance_optimization/index.html?index=..%2F..index#0">Resource Optimization: Performance&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://quickstarts.snowflake.com/guide/resource_optimization_usage_monitoring/index.html?index=..%2F..index#0">Resource Optimization: Usage Monitoring&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://quickstarts.snowflake.com/guide/resource_optimization_billing_metrics/index.html?index=..%2F..index#0">Resource Optimization: Billing Metrics&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stackoverflow.com/questions/70585936/how-to-get-a-list-of-tables-used-for-each-query-in-the-query-history-in-snowflak/70589299#70589299">Clever way to join &lt;code>information_schema&lt;/code> tables to &lt;code>query_history&lt;/code>&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/snowflake/mythbusting-snowflake-pricing-all-the-cool-stuff-you-get-with-1-credit-f3daad217a98">Good article explaining Snowflake credit usage&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://docs.snowflake.com/en/developer-guide/odbc/odbc-parameters">ODBC Configuration and Connection Parameters&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="snowflake-cost-management-links">Snowflake Cost Management Links&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.snowflake.com/en/user-guide/views-materialized#label-materialized-views-maintenance-billing">Track Materialized Views&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.snowflake.com/en/user-guide/warehouses-overview#auto-suspension-and-auto-resumption">Lower Auto-Suspend&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://community.snowflake.com/s/article/Caching-in-Snowflake-Data-Warehouse">How Snowflake cache works&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.snowflake.com/en/user-guide/warehouses-overview#auto-suspension-and-auto-resumption">Understand auto-suspension&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/seanrm42/snowflake_scripts/tree/main/5_monitoring">sample github snowflake monitoring queries&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.getdbt.com/reference/resource-configs/snowflake-configs#query-tags">Apply tags from dbt&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="snowflake-cheat-sheet">Snowflake Cheat Sheet&lt;/h1>
+&lt;h3 id="functions">Functions&lt;/h3>
+&lt;p>&lt;a href="https://docs.snowflake.com/en/sql-reference/functions/nvl2.html">NVL2&lt;/a> - Return values depending if first value is null.&lt;/p></description></item></channel></rss>
