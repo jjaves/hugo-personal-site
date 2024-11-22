@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Javier Salazar</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Javier Salazar</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2024 20:17:17 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Little About Me</title>
-      <link>http://localhost:1313/posts/a-little-about-me/</link>
-      <pubDate>Mon, 16 Sep 2024 20:17:17 -0700</pubDate>
-      <guid>http://localhost:1313/posts/a-little-about-me/</guid>
-      <description>&lt;h2 id=&#34;welcome-to-my-new-post&#34;&gt;Welcome to My New Post&lt;/h2&gt;&#xA;&lt;p&gt;Get to know my work, projects and writings. Here’s an example of &lt;strong&gt;bold text&lt;/strong&gt; and a &lt;a href=&#34;https://example.com&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Javier Salazar</title><link>https://javiersalazar.info/posts/</link><description>Recent content in Posts on Javier Salazar</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2024 20:17:17 -0700</lastBuildDate><atom:link href="https://javiersalazar.info/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>A Little About Me</title><link>https://javiersalazar.info/posts/a-little-about-me/</link><pubDate>Mon, 16 Sep 2024 20:17:17 -0700</pubDate><guid>https://javiersalazar.info/posts/a-little-about-me/</guid><description>&lt;h2 id="welcome-to-my-new-post">Welcome to My New Post&lt;/h2>
+&lt;p>Get to know my work, projects and writings. Here’s an example of &lt;strong>bold text&lt;/strong> and a &lt;a href="https://example.com">link&lt;/a>.&lt;/p></description></item></channel></rss>

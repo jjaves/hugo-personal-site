@@ -1,26 +1,105 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Javier Salazar</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Javier Salazar</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2024 20:31:12 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Javier</title>
-      <link>http://localhost:1313/info/about-javier/</link>
-      <pubDate>Mon, 16 Sep 2024 20:31:12 -0700</pubDate>
-      <guid>http://localhost:1313/info/about-javier/</guid>
-      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I am Javier, a tech enthusiast and software engineer. This website is a collection of my thoughts, projects, and everything I&amp;rsquo;m passionate about.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Little About Me</title>
-      <link>http://localhost:1313/posts/a-little-about-me/</link>
-      <pubDate>Mon, 16 Sep 2024 20:17:17 -0700</pubDate>
-      <guid>http://localhost:1313/posts/a-little-about-me/</guid>
-      <description>&lt;h2 id=&#34;welcome-to-my-new-post&#34;&gt;Welcome to My New Post&lt;/h2&gt;&#xA;&lt;p&gt;Get to know my work, projects and writings. Here’s an example of &lt;strong&gt;bold text&lt;/strong&gt; and a &lt;a href=&#34;https://example.com&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Javier Salazar</title><link>https://javiersalazar.info/</link><description>Recent content on Javier Salazar</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2024 20:31:12 -0700</lastBuildDate><atom:link href="https://javiersalazar.info/index.xml" rel="self" type="application/rss+xml"/><item><title>About Javier</title><link>https://javiersalazar.info/info/about-javier/</link><pubDate>Mon, 16 Sep 2024 20:31:12 -0700</pubDate><guid>https://javiersalazar.info/info/about-javier/</guid><description>&lt;h2 id="about-me">About Me&lt;/h2>
+&lt;p>Hi, I am Javier, a tech enthusiast and software engineer. This website is a collection of my thoughts, projects, and everything I&amp;rsquo;m passionate about.&lt;/p></description></item><item><title>A Little About Me</title><link>https://javiersalazar.info/posts/a-little-about-me/</link><pubDate>Mon, 16 Sep 2024 20:17:17 -0700</pubDate><guid>https://javiersalazar.info/posts/a-little-about-me/</guid><description>&lt;h2 id="welcome-to-my-new-post">Welcome to My New Post&lt;/h2>
+&lt;p>Get to know my work, projects and writings. Here’s an example of &lt;strong>bold text&lt;/strong> and a &lt;a href="https://example.com">link&lt;/a>.&lt;/p></description></item><item><title/><link>https://javiersalazar.info/misc/dbt-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javiersalazar.info/misc/dbt-links/</guid><description>&lt;h1 id="-dbt-links">🛠️📦 dbt Links&lt;/h1>
+&lt;h2 id="dbt-additional-resources">dbt Additional Resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.getdbt.com/best-practices/how-we-mesh/mesh-5-faqs">dbt Mesh FAQs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Hiflylabs/awesome-dbt#integrations">Awesome dbt, a curated list of dbt resources&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.soda.io/soda/integrate-dbt.html">SODA, tool to find, analyze, and solve data issues&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.getdbt.com/guides/serverless-datadog?step=1">Integrating dbt w/ Datadog&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn-dbt">learn dbt&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://learn.getdbt.com/catalog">learn.dbt&lt;/a>
+&lt;ul>
+&lt;li>[fundamentals]https://learn.getdbt.com/courses/dbt-fundamentals&lt;/li>
+&lt;li>[dbt &amp;amp; snowflake]https://courses.getdbt.com/courses/dbt-cloud-and-snowflake-for-developers&lt;/li>
+&lt;li>[refactoring SQL]https://courses.getdbt.com/courses/refactoring-sql-for-modularity&lt;/li>
+&lt;li>[advanced deployment w/ dbt Cloud]https://courses.getdbt.com/courses/advanced-deployment&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="dbt-code-completion">dbt code completion&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://discourse.getdbt.com/t/how-we-set-up-our-computers-for-working-on-dbt-projects/243">post on setup&lt;/a>
+&lt;h3 id="helper-links">helper links&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ohmyzsh/ohmyzsh">ohmyzsh&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dbt-labs/dbt-completion.bash">dbt-completion.bash&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gitlab.com/gitlab-data/analytics/blob/master/admin/onboarding_script.zsh">useful onboarding script&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="cheat-sheet">cheat sheet&lt;/h1>
+&lt;h2 id="git-workflow-for-dbt">git workflow for dbt&lt;/h2>
+&lt;h4 id="go-to-dbt-project">Go to dbt project&lt;/h4>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>cd ~/projects/&lt;span style="color:#f92672">{&lt;/span>dbt project name&lt;span style="color:#f92672">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="start-the-pipenv-shell">Start the pipenv shell&lt;/h4>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>pipenv shell
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="update-master">Update master&lt;/h4>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git fetch
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git pull
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="checkout-branch">Checkout branch&lt;/h4>
+&lt;h4 id="new-branch">New branch:&lt;/h4>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git checkout -b &lt;span style="color:#f92672">{&lt;/span>new_branch name&lt;span style="color:#f92672">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="from-pr">From PR:&lt;/h4>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git pull origin pull/&lt;span style="color:#f92672">{&lt;/span>PR Number&lt;span style="color:#f92672">}&lt;/span>/head
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="update-models-locally">Update models locally&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>dbt run --models staging_&lt;span style="color:#f92672">{&lt;/span>name of model&lt;span style="color:#f92672">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="add--to-run-all-referenced-by-andor-depends-on-models">Add &lt;code>+&lt;/code> to run all referenced by and/or depends on models&lt;/h4>
+&lt;p>&lt;code>+model_c&lt;/code> for all upstream models, also runs &lt;code>model_a&lt;/code> and &lt;code>model_b&lt;/code>&lt;/p></description></item><item><title/><link>https://javiersalazar.info/misc/other-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javiersalazar.info/misc/other-links/</guid><description>&lt;h1 id="other-links">Other Links&lt;/h1>
+&lt;h2 id="learn-bashterminal">Learn Bash/Terminal&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.mprat.org/Terminus/">Terminus Interactive Bash game&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://overthewire.org/wargames/bandit/">OverTheWire&amp;rsquo;s Bash Bandit Bash Game&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://overthewire.org/wargames/">Additional games from OverTheWire&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn-git">Learn Git&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://learngitbranching.js.org/">Interactive game to learn git&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="data-viz">Data Viz&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://handsondataviz.org/">Online Book: Fundamentals of Data Viz&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.visualcinnamon.com/resources/learning-data-visualization/books/">Collection of Books on Data Viz&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://javiersalazar.info/misc/sql-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javiersalazar.info/misc/sql-links/</guid><description>&lt;h1 id="-database-design--sql-links">🗄️🔍 database design &amp;amp; SQL links&lt;/h1>
+&lt;h2 id="sql-online-learning-resources">SQL Online Learning Resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.kaggle.com/learn/intro-to-sql">Kaggle&amp;rsquo;s Intro to SQL&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/learn/advanced-sql">Kaggle&amp;rsquo;s Advanced SQL&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learn.snowflake.com/en/courses/uni-essdww101/">Snowflake&amp;rsquo;s Data Warehousing Workshop&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mode.com/sql-tutorial/">Mode&amp;rsquo;s SQL Tutorial&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="snowflake-links">Snowflake Links&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://quickstarts.snowflake.com/guide/resource_optimization_performance_optimization/index.html?index=..%2F..index#0">Resource Optimization: Performance&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://quickstarts.snowflake.com/guide/resource_optimization_usage_monitoring/index.html?index=..%2F..index#0">Resource Optimization: Usage Monitoring&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://quickstarts.snowflake.com/guide/resource_optimization_billing_metrics/index.html?index=..%2F..index#0">Resource Optimization: Billing Metrics&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stackoverflow.com/questions/70585936/how-to-get-a-list-of-tables-used-for-each-query-in-the-query-history-in-snowflak/70589299#70589299">Clever way to join &lt;code>information_schema&lt;/code> tables to &lt;code>query_history&lt;/code>&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/snowflake/mythbusting-snowflake-pricing-all-the-cool-stuff-you-get-with-1-credit-f3daad217a98">Good article explaining Snowflake credit usage&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://docs.snowflake.com/en/developer-guide/odbc/odbc-parameters">ODBC Configuration and Connection Parameters&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="snowflake-cost-management-links">Snowflake Cost Management Links&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.snowflake.com/en/user-guide/views-materialized#label-materialized-views-maintenance-billing">Track Materialized Views&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.snowflake.com/en/user-guide/warehouses-overview#auto-suspension-and-auto-resumption">Lower Auto-Suspend&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://community.snowflake.com/s/article/Caching-in-Snowflake-Data-Warehouse">How Snowflake cache works&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.snowflake.com/en/user-guide/warehouses-overview#auto-suspension-and-auto-resumption">Understand auto-suspension&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/seanrm42/snowflake_scripts/tree/main/5_monitoring">sample github snowflake monitoring queries&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.getdbt.com/reference/resource-configs/snowflake-configs#query-tags">Apply tags from dbt&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="snowflake-cheat-sheet">Snowflake Cheat Sheet&lt;/h1>
+&lt;h3 id="functions">Functions&lt;/h3>
+&lt;p>&lt;a href="https://docs.snowflake.com/en/sql-reference/functions/nvl2.html">NVL2&lt;/a> - Return values depending if first value is null.&lt;/p></description></item></channel></rss>
