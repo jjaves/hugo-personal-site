@@ -2,11 +2,6 @@
 title = "links"
 
   [[entries.entries]]
-  title = "jjsalazar@gmail.com"
-  url = "mailto:jjsalazar@gmail.com"
-  image = "images/gmail_icon.svg"
-
-  [[entries.entries]]
   title = "linkedin"
   url = "https://www.linkedin.com/in/javiers2/"
   image = "images/linkedIn_icon.svg"
@@ -15,28 +10,6 @@ title = "links"
   title = "github"
   url = "https://github.com/jjaves"
   image = "images/github_icon.svg"
-
-  [[entries.entries]]
-  title = "tableau public"
-  url = "https://public.tableau.com/app/profile/javier6881/vizzes"
-  image = "images/tableau_icon.svg"
-
-
-# [[entries]]
-# title = "projects"
-
-#     [[entries.entries]]
-#     title = "Micro Food Scarcity in the Bay Area"
-#     url = "micro-food-scarcity"
-
-#     [[entries.entries]]
-#     title = "Snowflake Cost Savings 101"
-#     url = "snowflake-cost-savings"
-
-#     [[entries.entries]]
-#     title = "Optimzed Segment Implementation"
-#     url = "optimize-segment"
-
 
 [[entries]]
 title = "my career"
