@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Javier Salazar</title>
-    <link>https://javiersalazar.info:1313/</link>
-    <description>Recent content on Javier Salazar</description>
+    <title>Miscs on Javier Salazar</title>
+    <link>https://javiersalazar.info:1313/misc/</link>
+    <description>Recent content in Miscs on Javier Salazar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2024 20:31:12 -0700</lastBuildDate>
-    <atom:link href="https://javiersalazar.info:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Javier</title>
-      <link>https://javiersalazar.info:1313/info/about-javier/</link>
-      <pubDate>Mon, 16 Sep 2024 20:31:12 -0700</pubDate>
-      <guid>https://javiersalazar.info:1313/info/about-javier/</guid>
-      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I am Javier, a tech enthusiast and software engineer. This website is a collection of my thoughts, projects, and everything I&amp;rsquo;m passionate about.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Little About Me</title>
-      <link>https://javiersalazar.info:1313/posts/a-little-about-me/</link>
-      <pubDate>Mon, 16 Sep 2024 20:17:17 -0700</pubDate>
-      <guid>https://javiersalazar.info:1313/posts/a-little-about-me/</guid>
-      <description>&lt;h2 id=&#34;welcome-to-my-new-post&#34;&gt;Welcome to My New Post&lt;/h2&gt;&#xA;&lt;p&gt;Get to know my work, projects and writings. Here’s an example of &lt;strong&gt;bold text&lt;/strong&gt; and a &lt;a href=&#34;https://example.com&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://javiersalazar.info:1313/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://javiersalazar.info:1313/misc/dbt-links/</link>
